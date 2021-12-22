@@ -1,0 +1,57 @@
+.main-thread {
+    color: #781D42;
+    text-align: center;
+}
+
+.homepage-title {
+    color: #DE834D;
+    text-align: center;
+}
+
+.homepage-text {
+    text-align: center;
+}
+
+#images {
+    display: flex;
+    justify-content: center;
+    font-style: italic;
+}
+
+.image-list {
+    margin-bottom: 20px;
+}
+
+.navbar {
+    display: flex;
+    justify-content: center;
+}
+
+.navlist {
+    list-style: none;
+    text-align: center;
+}
+
+.nav-elements {
+    color: #A3423C;
+    display: inline;
+    font-size: 20px;
+    text-decoration: underline;
+    margin: 20px;
+}
+
+.about-img {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    text-align: center;
+}
+
+.main-img {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    text-align: center;
+}
+
+h3 {
+    color: #DE834D;
+}
